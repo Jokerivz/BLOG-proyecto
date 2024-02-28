@@ -1,0 +1,25 @@
+Metodos de peticion HTTP
+
+HTTP define un conjunto de metodos de peticion para indicar
+la accion que se desea realizar para un recurso determinado.
+Aunque estos tambien pueden ser sustantivos, estos metodos
+de solicitud a veces son llamados HTTP verbs. Cada uno de ellos
+implementan una semantica diferente, pero algunas caracteristicas similares son
+compartidas por un grupo de ellos: ej. un request method puede ser safe, idempotent
+o cacheable.
+
+Un metodo representa una accion en las clases de programacion orientada a objetos
+
+Clase: Alumno
+Metodo: Hacer tarea
+
+HTTP: Hypertext Transfer Protocol
+
+GET
+El metodo GET solicita una representacion de un recurso especifico. Las peticiones
+que usan el metodo GET solo deben recuperar datos.
+
+Una clase es un modelo que representa de forma abstracta un objeto de la vida real.
+
+< < Parafrasear lo que es el metodo GET por un punto gratis > >
+
